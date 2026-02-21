@@ -1,6 +1,6 @@
 # Lucas Branaman
 
-Computer Software Developer based in Oswego, IL
+Current Computer Science student minoring in Economics at Northern Illinois University. Skilled in a variety of programming languages and technical support. Well versed in managerial positions and handling of financial systems and information. Eager and quick to learn new systems for optimization.
 
 [Email](mailto:lucasibranaman@gmail.com) / [LinkedIn](https://www.linkedin.com/in/lucas-branaman/) / [GitHub](https://github.com/Lbranaman) 
 
