@@ -1,6 +1,6 @@
 # Lucas Branaman
 
-Software engineer and astronomer based in Morocco 🇲🇦
+Computer Sofware Developer based in Oswego, IL
 
 [Email](mailto:lucasibranaman@gmail.com) / [LinkedIn](https://www.linkedin.com/in/lucas-branaman/) / [GitHub](https://github.com/Lbranaman) 
 
