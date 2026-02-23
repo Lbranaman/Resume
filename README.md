@@ -35,8 +35,8 @@ Current Computer Science student minoring in Economics at Northern Illinois Univ
 ## Education
 
 **Bachelor's Degree in Computer Science - Software Development** (_2024 – 2026_) 
+Minor in Economics
 
-**Minor in Economics** 
 [Northern Illinois University](https://www.niu.edu/index.shtml)
 
 **Associate Degree in Science** (_2022 – 2024_)  
