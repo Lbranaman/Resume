@@ -34,7 +34,8 @@ Current Computer Science student minoring in Economics at Northern Illinois Univ
 
 ## Education
 
-**Master’s Degree in Industrial Engineering – AI & Data Science** (_2024 – 2026_)  
+**Bachelors Degree in Computer Science - Software Development** (_2024 – 2026_) 
+**Minor in Economics** 
 [Northern Illinois University](https://www.niu.edu/index.shtml)
 
 **Associate Degree in Science** (_2022 – 2024_)  
