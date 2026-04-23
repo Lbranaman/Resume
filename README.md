@@ -31,20 +31,20 @@ Computer Science graduate from Northern Illinois University with a minor in Econ
 - Flown to other properties managed by UCOMM across the U.S to train and improve other teams.
 - Recruited, trained, and managed a small team of agents and maintenance staff.
 
-## Experience
+## Project Experience
 
-**UTILIZING CLASSIFICATION TECHNIQUES TO DETERMINE IMPACT OF STEAM GAME TAGS ON REVENUE** @ NORTHERN ILLINOIS UNIVERSITY _(December 2025)_
+**Utilizing Classification Techniques to Determine Impact of Steam Tags on Revenue** @ Northern Illinois University _(December 2025)_
 
 - Researched over 100,000 entries to search for potential patterns between tags and revenue using Random Forest and SVM classifiers.  
 - Delivered a 6 person project in a limited deadline with only myself and one other team member.
 
-**PRODUCT ORDER QUOTE SYSTEM** @ NORTHERN ILLINOIS UNIVERSITY _(May 2025)_
+**Product Order Quote System** @ Northern Illinois University _(May 2025)_
 
 - Worked with a small team to create an internal SQL database that communicated with a separately hosted legacy database.
 - Utilized PHPMailer for creating a local based setup for sending confirmation emails to customers.
 - Created a user friendly browser interface for the creation, sanctioning, and sending of quotes.
 
-**DATABASES KARAOKE SYSTEM** @ NORTHERN ILLINOIS UNIVERSITY _(December 2024)_
+**Databases Karaoke System** @ Northern Illinois University _(December 2024)_
 
 - Created an interface for grabbing songs from a SQL database that would then be played in browser.
 
@@ -58,6 +58,9 @@ Computer Science graduate from Northern Illinois University with a minor in Econ
 
 **Associate Degree of Science** (_2022 – 2024_)  
 [Parkland College](https://www.parkland.edu/)
+
+**Computer Science Engineering** (_2017 – 2018_)  
+[University of Illinois Urbana-Champaign](https://illinois.edu/)
 
 ## Skills
 
